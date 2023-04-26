@@ -1,4 +1,6 @@
 {
+  "name": "fcc-learn-npm-package-json",
+  "author": "Shlomi",
   "scripts": {
     "start": "nodemon index.js"
   },
